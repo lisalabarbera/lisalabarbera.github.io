@@ -204,7 +204,7 @@ a.navbar:active {
 
 .portfoliopic3 {
   width: 450px;
-  height: 450px;
+  height: 420px;
   margin: 0 auto;
   float: left;
   padding: 0px;
@@ -230,7 +230,7 @@ a.navbar:active {
 }
 
 .viewbutton:hover {
-  background: #D1D1D1; /*f7f7f7;*/
+  background: #DFDFDF; /*d1d1d1 f7f7f7;*/
   width: 80px;
   padding-top: 10px;
   padding-bottom: 10px;
