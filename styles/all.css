@@ -93,6 +93,15 @@ a.navbar:active {
   /* border-bottom: 1px solid #B8B8B8; */
 }
 
+.textContainer4{
+  position: absolute;
+  margin-bottom: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 900px;
+  /* border-bottom: 1px solid #B8B8B8; */
+}
+
 .space {
   height: 1px;
 }
@@ -185,6 +194,17 @@ a.navbar:active {
 .portfoliopic2 {
   width: 470px;
   height: 300px;
+  margin: 0 auto;
+  float: left;
+  padding: 0px;
+  display: inline;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.portfoliopic3 {
+  width: 550px;
+  height: 600px;
   margin: 0 auto;
   float: left;
   padding: 0px;
