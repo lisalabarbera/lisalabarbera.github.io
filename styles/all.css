@@ -90,7 +90,7 @@ a.navbar:active {
   margin-left: 150px;
   margin-right: 150px;
   margin-top: 450px;
-  /* border-bottom: 1px solid #B8B8B8; */
+  border-bottom: 1px solid #B8B8B8;
 }
 
 .textContainer4{
@@ -203,8 +203,8 @@ a.navbar:active {
 }
 
 .portfoliopic3 {
-  width: 550px;
-  height: 600px;
+  width: 700px;
+  height: 1000px;
   margin: 0 auto;
   float: left;
   padding: 0px;
