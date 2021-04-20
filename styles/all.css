@@ -98,7 +98,7 @@ a.navbar:active {
   margin-bottom: 50px;
   margin-left: 150px;
   margin-right: 150px;
-  margin-top: 900px;
+  margin-top: 920px;
   /* border-bottom: 1px solid #B8B8B8; */
 }
 
@@ -203,8 +203,8 @@ a.navbar:active {
 }
 
 .portfoliopic3 {
-  width: 500px;
-  height: 400px;
+  width: 430px;
+  height: 380px;
   margin: 0 auto;
   float: left;
   padding: 0px;
