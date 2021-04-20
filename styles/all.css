@@ -203,8 +203,8 @@ a.navbar:active {
 }
 
 .portfoliopic3 {
-  width: 380px;
-  height: 430px;
+  width: 450px;
+  height: 450px;
   margin: 0 auto;
   float: left;
   padding: 0px;
@@ -214,7 +214,7 @@ a.navbar:active {
 }
 
 /*Buttons*/
-#viewbutton {
+.viewbutton {
   background-color: #F5F5F5;
   width: 80px;
   padding-top: 10px;
@@ -229,8 +229,8 @@ a.navbar:active {
   margin-bottom: 25px;
 }
 
-#viewbutton:hover {
-  background: #B0B0B0; /*f7f7f7;*/
+.viewbutton:hover {
+  background: #D1D1D1; /*f7f7f7;*/
   width: 80px;
   padding-top: 10px;
   padding-bottom: 10px;
